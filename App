@@ -1,0 +1,8 @@
+lib/
+ ├─ main.dart
+ ├─ screens/
+ │   ├─ login_screen.dart
+ │   ├─ player_profile_screen.dart
+ │   └─ coach_list_screen.dart
+ └─ models/
+     └─ player.dart
